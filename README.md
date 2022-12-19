@@ -1,4 +1,8 @@
 <h1 align="center">*** Hi 👋, I'm Avi Andhariya ***</h1>
+<img src='https://github-profile-trophy.vercel.app/?username=AviAndhariya' alt="trophy"
+/>
+
+
 
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning **React Js**
@@ -7,8 +11,7 @@
 - ⚡ Fun fact: I am afraid of Bat but not Batman..
 - ✍️ Hobbies,Interests:✨ I am an Cinematographer ✨
 -->
-<img src='https://github-profile-trophy.vercel.app/?username=AviAndhariya' alt="trophy"
-/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/avi-andhariya-177948191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Avi Andhariya" height="30" width="40" /></a>
