@@ -24,7 +24,7 @@
 
 
 <h2 align="center">📊 My Github Stats<h2>
-<div align ='center'>
+<div justify-content:'center'>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=AviAndhariya&show_icons=true&theme=tokyonight" height="255px" width="47%"/>
   </br>
     <img src="https://github-readme-stats.vercel.app/api?username=AviAndhariya" />
