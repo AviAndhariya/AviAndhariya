@@ -27,8 +27,12 @@
 <div justify-content:'center'>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=AviAndhariya&show_icons=true&theme=tokyonight" height="255px" width="47%"/>
   </br>
+  </div>
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=AviAndhariya" />
   </br>
+  </div>
+  <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AviAndhariya&theme=tokyonight&langs_count=8" alt="AviAndhariya" height="260px" width="25%" />
 <div>
 
