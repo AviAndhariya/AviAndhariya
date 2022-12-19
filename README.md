@@ -27,11 +27,12 @@
   </div>
   <div>
 <!-- <div justify-content:'center'> -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=AviAndhariya&show_icons=true&theme=tokyonight" height="255px" width="47%"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=AviAndhariya" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=AviAndhariya&show_icons=true&theme=tokyonight" height="255px" width="47%"/>
 <!--   </br> -->
 <!--   </div> -->
 <!--   <div> -->
-    <img src="https://github-readme-stats.vercel.app/api?username=AviAndhariya" />
+    
 <!--   </br> -->
 <!--   </div> -->
 <!--   <div> -->
