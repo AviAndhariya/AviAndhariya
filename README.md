@@ -34,8 +34,8 @@
   </div>
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AviAndhariya&theme=tokyonight&langs_count=8" alt="akshaypatel80" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=AviAndhariya&theme=tokyo-night" height="255px" width="70%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AviAndhariya&theme=tokyonight&langs_count=8" alt="AviAndhariya" height="260px" width="25%" />
+<!--   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=AviAndhariya&theme=tokyo-night" height="255px" width="70%"/> -->
 <div>
 
 
