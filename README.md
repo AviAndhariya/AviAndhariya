@@ -24,10 +24,13 @@
 
 <h2 align="center">📊 My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaypatel80&theme=tokyonight" alt="AviAndhariya" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=akshaypatel80&show_icons=true&theme=tokyonight" height="255px" width="47%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AviAndhariya&theme=tokyonight" alt="AviAndhariya" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=AviAndhariya&show_icons=true&theme=tokyonight" height="255px" width="47%"/>
 <div>
   </br>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=AviAndhariya" />
+  </div>
   
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AviAndhariya&theme=tokyonight&langs_count=8" alt="akshaypatel80" height="260px" width="25%" />
