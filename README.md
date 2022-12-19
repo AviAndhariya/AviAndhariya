@@ -25,18 +25,12 @@
 
 <h2 align="center">📊 My Github Stats<h2>
 <div>
-<!--   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AviAndhariya&theme=tokyonight" alt="AviAndhariya" height="250px" width="47%" /> -->
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=AviAndhariya&show_icons=true&theme=tokyonight" height="255px" width="47%"/>
-<div>
   </br>
-  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=AviAndhariya" />
-  </div>
-  
-<div>
+  </br>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AviAndhariya&theme=tokyonight&langs_count=8" alt="AviAndhariya" height="260px" width="25%" />
-<!--   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=AviAndhariya&theme=tokyo-night" height="255px" width="70%"/> -->
 <div>
-<img src="githubcalender" alt ="calender" />
+
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
