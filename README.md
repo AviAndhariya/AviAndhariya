@@ -5,7 +5,6 @@
 
 
 - 🔭 I’m currently working on React
-- 🌱 I’m currently learning **React Js**
 - 💬 Ask me about Html,CSS,JavaScript,ReactJs
 - 📫 How to reach me: **avi.andhariya@gmail.com**
 - ⚡ Fun fact: I am afraid of Bat but not Batman..
